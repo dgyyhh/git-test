@@ -15,6 +15,11 @@ public class GitTest {
         System.out.println("hello22");
         System.out.println("hello22");
         System.out.println("1323232");
-        System.out.println("push");
+        System.out.println("1323232");
+        System.out.println("1323232");
+        System.out.println("1323232");
+        System.out.println("1323232");
+        System.out.println("1323232");
+        System.out.println("pull");
     }
 }
